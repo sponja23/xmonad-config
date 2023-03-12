@@ -1,0 +1,6 @@
+[submodule "xmonad-git"]
+	path = xmonad-git
+	url = https://github.com/xmonad/xmonad
+[submodule "xmonad-contrib-git"]
+	path = xmonad-contrib-git
+	url = https://github.com/xmonad/xmonad-contrib
